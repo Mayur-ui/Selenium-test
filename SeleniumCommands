@@ -6,3 +6,4 @@
 #6) findElement(By, by) with getText()
 #7) Submit()
 #8) findElements(By, by)
+9)sendkeys()
