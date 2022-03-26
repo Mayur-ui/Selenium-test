@@ -1,0 +1,8 @@
+1) get()
+#2) getCurrentUrl()
+#3) findElement(By, by) and click()
+#4) isEnabled()
+#5) findElement(By, by) with sendKeys()
+#6) findElement(By, by) with getText()
+#7) Submit()
+#8) findElements(By, by)
